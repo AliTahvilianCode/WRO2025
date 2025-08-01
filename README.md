@@ -68,19 +68,19 @@ Below are examples of what the robot's camera perceives during a run, demonstrat
 *This shows the robot identifying green obstacles, which must be passed on the left.*
 
 *Example View 1:*
-![Robot's view approaching a green obstacle](./vision_process/2.jpg)
+![Robot's view approaching a green obstacle](./vision_process/2.png)
 
 *Example View 2:*
-![Robot navigating next to a green obstacle](./vision_process/3.jpg)
+![Robot navigating next to a green obstacle](./vision_process/3.png)
 
 **Red Obstacle Detection**
 *This shows the robot identifying red obstacles, which must be passed on the right.*
 
 *Example View 1:*
-![Robot's view approaching a red obstacle](./vision_process/1.jpg)
+![Robot's view approaching a red obstacle](./vision_process/1.png)
 
 *Example View 2:*
-![Robot navigating next to a red obstacle](./vision_process/4.jpg)
+![Robot navigating next to a red obstacle](./vision_process/4.png)
 
 **B. The EV3's Role: Execution and Safety**
 
