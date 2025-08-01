@@ -1,6 +1,7 @@
 # Terminator - WRO 2025 Future Engineers
 
-![Team Photo](./media/team_photo.jpg)
+![Team Photo](./t-photos/team.jpg)
+
 **Country:** Iran
 
 ---
