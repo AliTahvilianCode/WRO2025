@@ -1,2 +1,2 @@
-* **Open Challenge Video:** [https://www.youtube.com/watch?v=dQw4w9WgXcQ](http://googleusercontent.com/youtube.com/6)
-* **Obstacle Challenge Video:** [https://www.youtube.com/watch?v=o-YBDTqX_ZU](http://googleusercontent.com/youtube.com/7)
+* **Open Challenge Video:** [https://youtu.be/Mh1cFWBIVBE](http://googleusercontent.com/youtube.com/6)
+* **Obstacle Challenge Video:** [https://youtu.be/Gw7tyMRPiJc](http://googleusercontent.com/youtube.com/7)
