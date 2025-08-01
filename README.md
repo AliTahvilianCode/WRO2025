@@ -123,5 +123,5 @@ The source code for this project is organized in the `src/` directory.
 * **Right Side View:** [Link to Right Side Photo](./v-photos/right.jpg)
 
 ## 6. Performance Videos
-* **Open Challenge Video:** [https://www.youtube.com/watch?v=dQw4w9WgXcQ](http://googleusercontent.com/youtube.com/6)
-* **Obstacle Challenge Video:** [https://www.youtube.com/watch?v=o-YBDTqX_ZU](http://googleusercontent.com/youtube.com/7)
+* **Open Challenge Video:** [https://youtu.be/Mh1cFWBIVBE](https://youtu.be/Mh1cFWBIVBE)
+* **Obstacle Challenge Video:** [https://youtu.be/Gw7tyMRPiJc](https://youtu.be/Gw7tyMRPiJc)
